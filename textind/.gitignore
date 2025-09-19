@@ -1,0 +1,11 @@
+# Ignore compiled files
+/target/
+
+# Optional: ignore Cargo.lock for libraries (keep it for apps)
+# Cargo.lock
+
+# Ignore backup and editor files
+**/*.rs.bk
+*.swp
+*.swo
+.DS_Store
